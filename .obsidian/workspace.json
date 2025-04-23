@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea6188bd1eb9a8e2",
+            "id": "584e623f1b8a5ac3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Python/Day 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "icon": "lucide-file",
+              "title": "Day 1"
             }
           }
         ]
@@ -114,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Day 1"
             }
           },
           {
@@ -142,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Python/Day 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Day 1"
             }
           },
           {
@@ -180,10 +182,11 @@
   },
   "active": "d10b27f3cf3a5f3f",
   "lastOpenFiles": [
+    "ai-ops/Understanding vLLM.md",
     "Python/Day 1.md",
     "Python/Day 2.md",
-    "ai-ops/Understanding vLLM.md",
     "README.md",
+    "work/Hello world cicd/Python app Hello World.md",
     "obsidian-notes/README.md",
     "obsidian-notes",
     "Python",
@@ -202,7 +205,6 @@
     "work/teams-for-linux.md",
     "work/React Nginx Production.md",
     "work/minio cluster deployment.md",
-    "work/Hello world cicd/Python app Hello World.md",
     "learing note taking/Git-Lab.md",
     "learing note taking/Global Protect vpn connection.md",
     "learing note taking/gitlab-with-flux-cd.md",
