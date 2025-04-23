@@ -1,0 +1,3 @@
+VPC peering is used for connecting 2 network across the region and availability zone. 
+when we need to do data transfer between 2 [[EC2 (Elastic Cloud compute)]] instance across different availability zone then [[VPC (virtual private cloud)]] peering is used its a AWS service no charges will be applied for creating peering but charges will be applied for data transfer.
+its mostly used for db replication and data sync.

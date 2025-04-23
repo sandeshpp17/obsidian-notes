@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "4f2396be5b3869c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f5390c358c98ebc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d83abcef7bad478e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Day 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ed2a40ce54e0f56",
+    "type": "split",
+    "children": [
+      {
+        "id": "670c328379ea7214",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13208f1e7aeefd10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fd94551bde9cd835",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "52ad69713c9e4c18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299
+  },
+  "right": {
+    "id": "17574f87a05edc62",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6d87d9c03a53d0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce942a46d00ca80f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CKS notes/Cluster setup and Hardening/Auditing.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Auditing"
+            }
+          },
+          {
+            "id": "ada7b36200d07d7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CKS notes/Cluster setup and Hardening/Auditing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Auditing"
+            }
+          },
+          {
+            "id": "ca4431e90e0c29b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "960a93a9df26d4af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python/Day 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Day 2"
+            }
+          },
+          {
+            "id": "d10b27f3cf3a5f3f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d10b27f3cf3a5f3f",
+  "lastOpenFiles": [
+    "obsidian-notes",
+    "Python/Day 1.md",
+    "Python/Day 2.md",
+    "ai-ops/Understanding vLLM.md",
+    "Python",
+    "docker/(SOP) for Saving and Committing Docker Images.md",
+    "learing note taking/Git.md",
+    "learing note taking/Forticlient Open VPN.md",
+    "learing note taking/Elastic search.md",
+    "learing note taking/kubernetes/Network relation between pod and node.md",
+    "learing note taking/kubernetes/Cluster Migration.md",
+    "learing note taking/kubernetes/Cross namespace networking of pod.md",
+    "learing note taking/kubernetes/kubeadm init phase.md",
+    "learing note taking/kubernetes/Adding Metrics.md",
+    "learing note taking/helm/Helm.md",
+    "todo/self improvement.md",
+    "todo/Duplocloud.md",
+    "work/teams-for-linux.md",
+    "work/React Nginx Production.md",
+    "work/minio cluster deployment.md",
+    "work/Hello world cicd/Python app Hello World.md",
+    "learing note taking/Git-Lab.md",
+    "learing note taking/Global Protect vpn connection.md",
+    "learing note taking/gitlab-with-flux-cd.md",
+    "ai-ops/Untitled.md",
+    "CKS notes/Cluster setup and Hardening/ABAC Policy.md",
+    "CKS notes/Cluster setup and Hardening/API token access and kube proxy.md",
+    "CKS notes/Monitoring and logging",
+    "CKS notes/Supply Chain Security",
+    "CKS notes/Minimizing Microservice vernabilities",
+    "CKS notes/System Hardening",
+    "AWS/Pasted image 20250116184010.png",
+    "AWS/Pasted image 20250114165007.png",
+    "AWS/Pasted image 20250116183851.png",
+    "Untitled.canvas",
+    "CKS notes/Cluster setup and Hardening",
+    "CKS notes",
+    "ai-ops",
+    "AWS",
+    "work",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "learing note taking/Pasted image 20240809162942.png",
+    "learing note taking/Pasted image 20240809173230.png",
+    "learing note taking/Pasted image 20240816155138.png",
+    "learing note taking/Pasted image 20240816155151.png",
+    "learing note taking/Pasted image 20240816145758.png"
+  ]
+}
