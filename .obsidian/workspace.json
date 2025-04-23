@@ -182,6 +182,7 @@
   },
   "active": "d10b27f3cf3a5f3f",
   "lastOpenFiles": [
+    "README.md",
     "obsidian-notes/README.md",
     "obsidian-notes",
     "Python/Day 1.md",
@@ -209,7 +210,6 @@
     "learing note taking/gitlab-with-flux-cd.md",
     "ai-ops/Untitled.md",
     "CKS notes/Cluster setup and Hardening/ABAC Policy.md",
-    "CKS notes/Cluster setup and Hardening/API token access and kube proxy.md",
     "CKS notes/Monitoring and logging",
     "CKS notes/Supply Chain Security",
     "CKS notes/Minimizing Microservice vernabilities",
