@@ -11,15 +11,14 @@
             "id": "584e623f1b8a5ac3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Python/Day 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": "Python/Day 1.md",
+                "bFile": "Python/Day 1.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Day 1"
+              "icon": "diff",
+              "title": "Diff: Day 1"
             }
           }
         ]
@@ -180,11 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d10b27f3cf3a5f3f",
+  "active": "584e623f1b8a5ac3",
   "lastOpenFiles": [
-    "ai-ops/Understanding vLLM.md",
     "Python/Day 1.md",
     "Python/Day 2.md",
+    "AWS/NAT instance and NAT gateway.md",
+    "AWS/IAM (identity and access management).md",
+    "ai-ops/Understanding vLLM.md",
     "README.md",
     "work/Hello world cicd/Python app Hello World.md",
     "obsidian-notes/README.md",
@@ -208,8 +209,6 @@
     "learing note taking/Git-Lab.md",
     "learing note taking/Global Protect vpn connection.md",
     "learing note taking/gitlab-with-flux-cd.md",
-    "ai-ops/Untitled.md",
-    "CKS notes/Cluster setup and Hardening/ABAC Policy.md",
     "CKS notes/Monitoring and logging",
     "CKS notes/Supply Chain Security",
     "CKS notes/Minimizing Microservice vernabilities",
