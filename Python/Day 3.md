@@ -56,3 +56,5 @@ output: <class 'str'>
 		<class 'int'>
 ```
 
+https://cscircles.cemc.uwaterloo.ca/3-comments-literals/
+https://cscircles.cemc.uwaterloo.ca/4-types/
