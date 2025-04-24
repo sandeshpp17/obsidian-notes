@@ -8,17 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "584e623f1b8a5ac3",
+            "id": "7e88e573cc1db35b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Python/Day 1.md",
-                "bFile": "Python/Day 1.md",
-                "aRef": ""
+                "file": "Python/Day 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: Day 1"
+              "icon": "lucide-file",
+              "title": "Day 3"
             }
           }
         ]
@@ -179,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "584e623f1b8a5ac3",
+  "active": "7e88e573cc1db35b",
   "lastOpenFiles": [
-    "Python/Day 1.md",
     "Python/Day 2.md",
+    "Python/Day 3.md",
+    "Python/Day 1.md",
     "AWS/NAT instance and NAT gateway.md",
     "AWS/IAM (identity and access management).md",
     "ai-ops/Understanding vLLM.md",
@@ -208,7 +210,6 @@
     "work/minio cluster deployment.md",
     "learing note taking/Git-Lab.md",
     "learing note taking/Global Protect vpn connection.md",
-    "learing note taking/gitlab-with-flux-cd.md",
     "CKS notes/Monitoring and logging",
     "CKS notes/Supply Chain Security",
     "CKS notes/Minimizing Microservice vernabilities",
