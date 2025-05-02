@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Day 3.md",
+                "file": "ai-ops/Understanding vLLM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Day 3"
+              "title": "Understanding vLLM"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 299,
+    "collapsed": true
   },
   "right": {
     "id": "17574f87a05edc62",
@@ -182,9 +183,12 @@
   },
   "active": "7e88e573cc1db35b",
   "lastOpenFiles": [
+    "HAWK-I/main issue..md",
+    "HAWK-I/alpha.md",
+    "Python/Day 3.md",
+    "HAWK-I",
     "Python/Day 2.md",
     "Python/Day 1.md",
-    "Python/Day 3.md",
     "AWS/NAT instance and NAT gateway.md",
     "AWS/IAM (identity and access management).md",
     "ai-ops/Understanding vLLM.md",
@@ -208,8 +212,6 @@
     "work/teams-for-linux.md",
     "work/React Nginx Production.md",
     "work/minio cluster deployment.md",
-    "learing note taking/Git-Lab.md",
-    "learing note taking/Global Protect vpn connection.md",
     "CKS notes/Monitoring and logging",
     "CKS notes/Supply Chain Security",
     "CKS notes/Minimizing Microservice vernabilities",
@@ -221,7 +223,6 @@
     "CKS notes/Cluster setup and Hardening",
     "CKS notes",
     "ai-ops",
-    "AWS",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "learing note taking/Pasted image 20240809162942.png",
