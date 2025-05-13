@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai-ops/Understanding vLLM.md",
+                "file": "FluxCD/Installation and configuration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Understanding vLLM"
+              "title": "Installation and configuration"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299,
-    "collapsed": true
+    "width": 299
   },
   "right": {
     "id": "17574f87a05edc62",
@@ -183,6 +182,19 @@
   },
   "active": "7e88e573cc1db35b",
   "lastOpenFiles": [
+    "FluxCD/Introduction.md",
+    "FluxCD/Installation and configuration.md",
+    "CKS notes/Minimizing Microservice vernabilities/Admission controller.md",
+    "CKS notes/Cluster setup and Hardening/Ingress.md",
+    "CKS notes/Cluster setup and Hardening/Docker Daemon.md",
+    "CKS notes/Cluster setup and Hardening/CIS Benchmark.md",
+    "Argo-CD/Installation and Configuration.md",
+    "FluxCD",
+    "Argo-CD/Introduction.md",
+    "Azure/Azure DevOps.md",
+    "Argo-CD",
+    "ai-ops/Understanding vLLM.md",
+    "Azure",
     "HAWK-I/main issue..md",
     "HAWK-I/alpha.md",
     "Python/Day 3.md",
@@ -191,7 +203,6 @@
     "Python/Day 1.md",
     "AWS/NAT instance and NAT gateway.md",
     "AWS/IAM (identity and access management).md",
-    "ai-ops/Understanding vLLM.md",
     "README.md",
     "work/Hello world cicd/Python app Hello World.md",
     "obsidian-notes/README.md",
@@ -203,15 +214,6 @@
     "learing note taking/Elastic search.md",
     "learing note taking/kubernetes/Network relation between pod and node.md",
     "learing note taking/kubernetes/Cluster Migration.md",
-    "learing note taking/kubernetes/Cross namespace networking of pod.md",
-    "learing note taking/kubernetes/kubeadm init phase.md",
-    "learing note taking/kubernetes/Adding Metrics.md",
-    "learing note taking/helm/Helm.md",
-    "todo/self improvement.md",
-    "todo/Duplocloud.md",
-    "work/teams-for-linux.md",
-    "work/React Nginx Production.md",
-    "work/minio cluster deployment.md",
     "CKS notes/Monitoring and logging",
     "CKS notes/Supply Chain Security",
     "CKS notes/Minimizing Microservice vernabilities",
@@ -220,9 +222,6 @@
     "AWS/Pasted image 20250114165007.png",
     "AWS/Pasted image 20250116183851.png",
     "Untitled.canvas",
-    "CKS notes/Cluster setup and Hardening",
-    "CKS notes",
-    "ai-ops",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "learing note taking/Pasted image 20240809162942.png",
