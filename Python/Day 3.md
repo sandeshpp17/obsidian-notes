@@ -56,5 +56,15 @@ output: <class 'str'>
 		<class 'int'>
 ```
 
+```
+# below code calculates the slice for give pizza area. we only given a length of pizza.
+inputStr = 17.5
+L = float(inputStr)
+slice = (L*L)/100
+print(int(slice))
+# output = 3
+```
+
 https://cscircles.cemc.uwaterloo.ca/3-comments-literals/
 https://cscircles.cemc.uwaterloo.ca/4-types/
+

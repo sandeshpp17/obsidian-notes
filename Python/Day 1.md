@@ -39,16 +39,16 @@ y = temp # so temp is 10 which x previously so y value is 10
 Summary: 
 end link: https://cscircles.cemc.uwaterloo.ca/1-variables/
 
-learned able print which is used to print the message using print command with ("message") in it.
+learned print python command which is used to print the message using print ("message") in it.
 variable is used to store the data in program. 
 
 ## Errors
 
-in the program you will encounter lots of error preventing to run the application. there are different types of error or bug that needs to be fixed to run the application.
+in the program you will encounter lots of errors preventing to run the application. there are different types of error or bug that needs to be fixed to run the application.
 
 1. syntax error
 	this error is like you have forget the put () or " " in the program.
-	in English the sentences are written in grammatical way if the grammar is not proper then it make no sense what you are trying to say. same in python if the program is wrongly written then python is unable to understand is and show error.
+	in English the sentences are written in grammatical way if the grammar is not proper then it make no sense what you are trying to say. same in python if the program is wrongly written then python is unable to understand it and show error.
 ```python
 print "hello, world" # this is much like syntax error.
 ``` 
@@ -86,6 +86,7 @@ meatTax = 0.03 * meatPrice
 milkPrice = 2.00
 milkTax = 0.03 * milkPrice
 print(meatTax + meatPrice + milkTax + meatPrice)
+# fix print(meatTax + meatPrice + milkTax + milkPrice)
 ```
 
 in above example check the addition at last line there 2 time meatprice it should be meatprice and milkprice
