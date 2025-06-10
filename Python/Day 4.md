@@ -18,6 +18,7 @@ print(input())
 print(input()) # this will cause an error.
 ```
 
+https://cscircles.cemc.uwaterloo.ca/5-input/
 
 ## If 
 
@@ -68,3 +69,4 @@ if age < 0:
    print("You are a time traveller")
 ```
 
+https://cscircles.cemc.uwaterloo.ca/6-if/

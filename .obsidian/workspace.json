@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Day 4.md",
+                "file": "Python/Day 6.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Day 4"
+              "title": "Day 6"
             }
           }
         ]
@@ -182,8 +182,10 @@
   },
   "active": "b32534568c2d709e",
   "lastOpenFiles": [
-    "Python/Day 3.md",
+    "Python/Day 5.md",
+    "Python/Day 6.md",
     "Python/Day 4.md",
+    "Python/Day 3.md",
     "Python/Day 2.md",
     "Python/Day 1.md",
     "todo/Duplocloud.md",
@@ -210,10 +212,8 @@
     "AWS/NAT instance and NAT gateway.md",
     "AWS/IAM (identity and access management).md",
     "work/Hello world cicd/Python app Hello World.md",
-    "obsidian-notes/README.md",
     "obsidian-notes",
     "Python",
-    "docker/(SOP) for Saving and Committing Docker Images.md",
     "CKS notes/Monitoring and logging",
     "CKS notes/Supply Chain Security",
     "CKS notes/Minimizing Microservice vernabilities",
