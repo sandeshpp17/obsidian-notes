@@ -1,5 +1,3 @@
-
-<<<<<<< HEAD
 ### Strings
 
 All data stored on a computer in the sequence of 0 and 1.
@@ -139,5 +137,3 @@ print(ord('a'), ord('b'), ord('A'), ord('B'), ord(' '))
 print(chr(35), chr(43), chr(100))
 ```
 
-### Math Operators
->>>>>>> origin/main

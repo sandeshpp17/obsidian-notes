@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Day 5.md",
+                "file": "Python/Day 6.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Day 5"
+              "title": "Day 6"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "35ff35d1a300d084",
   "lastOpenFiles": [
-    "Python/Day 6.md",
     "Python/Day 5.md",
+    "Python/Day 6.md",
     "conflict-files-obsidian-git.md",
     "pdf/Adding Metrics.pdf",
     "pdf/(SOP) for Saving and Committing Docker Images.pdf",
