@@ -1,4 +1,4 @@
-## Debug
+**## Debug
 Programmer write a program sometime he make a mistake in value or logic and later on it causes the error or unnatural behavior of program. To find-out which line of code is causing this kind of behavior we have to debug the code. 
 
 The longer that you do programming, the better you will become at avoiding and fixing mistakes, but here we'll try to give you some very general and useful advice. We'll explain the following techniques:
