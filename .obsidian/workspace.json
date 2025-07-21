@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Python/Day 5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Day 5"
             }
           }
         ]
@@ -182,9 +182,9 @@
   },
   "active": "35ff35d1a300d084",
   "lastOpenFiles": [
-    "Python/Day 5.md",
     "conflict-files-obsidian-git.md",
     "Python/Day 6.md",
+    "Python/Day 5.md",
     "pdf/Adding Metrics.pdf",
     "pdf/(SOP) for Saving and Committing Docker Images.pdf",
     "learing note taking/Forticlient Open VPN.md",
