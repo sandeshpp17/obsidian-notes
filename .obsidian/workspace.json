@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b32534568c2d709e",
+            "id": "73926bdb7840b7ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,10 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b32534568c2d709e",
+  "active": "73926bdb7840b7ea",
   "lastOpenFiles": [
-    "Python/Day 5.md",
+    "pdf/Adding Metrics.pdf",
+    "pdf/(SOP) for Saving and Committing Docker Images.pdf",
+    "learing note taking/Forticlient Open VPN.md",
+    "learing note taking/Elastic search.md",
+    "learing note taking/kubernetes/Adding Metrics.md",
     "Python/Day 6.md",
+    "Python/Day 5.md",
     "Python/Day 4.md",
     "Python/Day 3.md",
     "Python/Day 2.md",
@@ -192,7 +197,6 @@
     "todo/self improvement.md",
     "README.md",
     "work/Gitlab Migration.md",
-    "learing note taking/kubernetes/Adding Metrics.md",
     "FluxCD/Installation and configuration.md",
     "FluxCD/Introduction.md",
     "CKS notes/Minimizing Microservice vernabilities/Admission controller.md",
@@ -209,15 +213,11 @@
     "HAWK-I/main issue..md",
     "HAWK-I/alpha.md",
     "HAWK-I",
-    "AWS/NAT instance and NAT gateway.md",
-    "AWS/IAM (identity and access management).md",
-    "work/Hello world cicd/Python app Hello World.md",
     "obsidian-notes",
     "Python",
     "CKS notes/Monitoring and logging",
     "CKS notes/Supply Chain Security",
     "CKS notes/Minimizing Microservice vernabilities",
-    "CKS notes/System Hardening",
     "AWS/Pasted image 20250116184010.png",
     "AWS/Pasted image 20250114165007.png",
     "AWS/Pasted image 20250116183851.png",

@@ -22,9 +22,10 @@ kubectl top nodes
 
 # How to add metrics server in kubernetes cluster.
 
-## run to install metric server in kube-system  
---> kubectl apply -f https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/components.yaml  
-
+## run to install metric server in kube-system 
+```bash
+kubectl apply -f https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/components.yaml  
+```
 to view to logs of metrics pod
 
 ```
