@@ -10,6 +10,7 @@ each string word has its index. TO manipulate a string we need to be able to acc
 ```python
 S[index]
 ```
+
 ```python
 Index: 0  1  2  3  4  5  6  7  8  9 10 11 12
 Char.: H  e  l  l  o  ,     W  o  r  l  d  !
@@ -18,21 +19,18 @@ Char.: H  e  l  l  o  ,     W  o  r  l  d  !
 **len** : 
 len is used to find the length of string that we can use to printing the last word in string.
 
-=======
 ### String Manipulation.
 
 in python we often use strings to manipulate the string we can use `len` function.
 i can print the length of a particular string. by using same `len` function we can get a specific word from string.
 
 **String cutting**
->>>>>>> origin/main
 ```python
 myString = 'Weighty'
 print(myString[1:6])
 print('magic'[3:3])
 print('chump'[0:4])
 ```
-<<<<<<< HEAD
 
 **cutting string** :  first index start with 0 and last index is len(x)-1 we can cut the string using index number.
 ```python
@@ -52,7 +50,6 @@ it can work like above. To get the number of characters in a string
 
 **String addition**
 It can be use the add two strings.
->>>>>>> origin/main
 ```python
 result = 'one' + 'two'
 print(result)
@@ -94,7 +91,7 @@ else:
    print(chr(ord(x)+1))
 ```
 
-
+https://cscircles.cemc.uwaterloo.ca/7a-strings/
 ## Math
 
 ### Math Operators
@@ -123,17 +120,47 @@ else:
    print("not divisible")
 ```
 
-=======
-```
 
+> [!NOTE]
+> > [!NOTE] String addition to int
+> > If you want to concatenate numbers, you need to convert them to str first. Otherwise you will get one of two errors, depending on the order you tried. Run this program to see the errors that can occur.
+> 
+> **Character codes: `ord`, `chr`**
+> 
+> ```python
+> print(ord('a'), ord('b'), ord('A'), ord('B'), ord(' '))
+> print(chr(35), chr(43), chr(100))
+> ```
 
-> [!NOTE] String addition to int
-> If you want to concatenate numbers, you need to convert them to str first. Otherwise you will get one of two errors, depending on the order you tried. Run this program to see the errors that can occur.
+https://cscircles.cemc.uwaterloo.ca/7b-math/
 
-**Character codes: `ord`, `chr`**
+## Loops
+
+To repeat the same task again and again we use loop there are 2 types of loops **while** and **for**
+
+### While
+
+A while statement repeats the code again and again as long as some condition is true .
 
 ```python
-print(ord('a'), ord('b'), ord('A'), ord('B'), ord(' '))
-print(chr(35), chr(43), chr(100))
+timeleft = 1
+while timeleft <= 10:
+   print(timeleft)
+   timeleft = timeleft+1
+print("Blastoff!")  
 ```
+
+### For
+
+for loop is another kind of loop in python  A `for` loop is built in order to easily loop through a range of numbers.
+The general structure of a numerical `for` loop is
+
+```python
+for «variableName» in range(«startValue», «tailValue»):
+  «indented block of commands, called the loop "body"»
+```
+
+
+
+
 
