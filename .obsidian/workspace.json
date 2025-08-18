@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Day 6.md",
+                "file": "learing note taking/kubernetes/Adding Metrics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Day 6"
+              "title": "Adding Metrics"
             }
           }
         ]
@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,22 +181,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d10b27f3cf3a5f3f",
+  "active": "35ff35d1a300d084",
   "lastOpenFiles": [
+    "AWS/NAT instance and NAT gateway.md",
+    "AWS/EC2 (Elastic Cloud compute).md",
+    "AWS/IAM (identity and access management).md",
+    "work/Hello world cicd/Python app Hello World.md",
+    "work/minio cluster deployment.md",
+    "README.md",
+    "work/teams-for-linux.md",
+    "work/React Nginx Production.md",
+    "work/Gitlab Migration.md",
     "pulumi/Provider api prerequisites..md",
     "pulumi/Getting started.md",
+    "ML-OPS/Openweb-UI.md",
+    "ML-OPS/Understanding vLLM.md",
+    "Python/Day 6.md",
     "pulumi",
     "ultra-learning/ultra-learning.md",
     "todo/self improvement.md",
     "todo/Duplocloud.md",
-    "Python/Day 6.md",
-    "ML-OPS/Understanding vLLM.md",
-    "ML-OPS/Openweb-UI.md",
     "learing note taking/kubernetes/Adding Metrics.md",
     "learing note taking/helm/Helm.md",
     "Azure/Azure DevOps.md",
-    "AWS/IAM (identity and access management).md",
-    "AWS/EC2 (Elastic Cloud compute).md",
     "Python/Day 5.md",
     "conflict-files-obsidian-git.md",
     "pdf/Adding Metrics.pdf",
@@ -204,13 +212,6 @@
     "learing note taking/Elastic search.md",
     "Python/Day 4.md",
     "Python/Day 3.md",
-    "Python/Day 2.md",
-    "Python/Day 1.md",
-    "README.md",
-    "work/Gitlab Migration.md",
-    "FluxCD/Installation and configuration.md",
-    "FluxCD/Introduction.md",
-    "CKS notes/Minimizing Microservice vernabilities/Admission controller.md",
     "FluxCD",
     "Argo-CD",
     "Azure",
