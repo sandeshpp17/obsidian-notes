@@ -9,11 +9,8 @@ This SOP outlines the steps to deploy a React application in a production enviro
 ## **Prerequisites**
 
 - A React application ready for production.
-    
 - Nginx installed on the target server.
-    
 - Docker installed (if using Docker for deployment).
-    
 
 ---
 
