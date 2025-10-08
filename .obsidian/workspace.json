@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Day 1.md",
+                "file": "Argo-CD/Installation and Configuration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 1"
+              "title": "Outline of Installation and Configuration"
             }
           },
           {
@@ -181,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35ff35d1a300d084",
+  "active": "d10b27f3cf3a5f3f",
   "lastOpenFiles": [
     "kubernetes/Kubernetes Network Policy.md",
     "Untitled 1.base",
