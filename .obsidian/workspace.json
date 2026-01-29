@@ -197,8 +197,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59544cfeb526e746",
+  "active": "d10b27f3cf3a5f3f",
   "lastOpenFiles": [
+    "kubernetes/kcna/Basics/Containers.md",
+    "kubernetes/kcna/Basics",
+    "kubernetes/kcna",
+    "kubernetes/Untitled.md",
     "ML-OPS/Openweb-UI.md",
     "ML-OPS/Understanding vLLM.md",
     "Python/Day 6.md",
@@ -228,8 +232,6 @@
     "Pasted image 20251008182123.png",
     "Pasted image 20251008182107.png",
     "Pasted image 20251008182047.png",
-    "Argo-CD/Installation and Configuration.md",
-    "kubernetes/Kubernetes Network Policy.md",
     "Untitled 1.base",
     "Untitled.base",
     "IAAS",
@@ -238,8 +240,6 @@
     "pulumi",
     "pdf/Adding Metrics.pdf",
     "pdf/(SOP) for Saving and Committing Docker Images.pdf",
-    "FluxCD",
-    "Argo-CD",
     "AWS/Pasted image 20250116184010.png",
     "AWS/Pasted image 20250114165007.png",
     "AWS/Pasted image 20250116183851.png",
