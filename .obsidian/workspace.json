@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "797aadf089721732",
+        "id": "0fd7bd2774918435",
         "type": "tabs",
         "children": [
           {
-            "id": "1881df0c4ec835fb",
+            "id": "df54521096b2c46c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "FluxCD/Introduction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introduction"
             }
           }
         ]
@@ -162,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 331
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,41 +183,41 @@
   },
   "active": "d10b27f3cf3a5f3f",
   "lastOpenFiles": [
-    "kubernetes/kcna/Basics/Containers.md",
+    "FluxCD/Installation and configuration.md",
+    "HAWK-I/main issue..md",
+    "HAWK-I/alpha.md",
+    "IAAS/Apache cloud stack.md",
+    "kubernetes/kcsa/Basic authentication in kubernetes.md",
+    "kubernetes/kcsa/secure cluster with tls certs.md",
+    "kubernetes/kcsa/securing the secrets with encryption.md",
+    "kubernetes/kcsa/securing storage.md",
+    "kubernetes/kcsa/pod security policy.md",
+    "kubernetes/kcsa/Introduction of Kubernetes cloud native security associate.md",
+    "Untitled.base",
+    "work/learing note taking/Learning Obsidian.md",
+    "kubernetes/CKS notes/Minimizing Microservice vernabilities/Pod Security Admission and standards.md",
+    "AWS/EC2 (Elastic Cloud compute).md",
+    "kubernetes/CKS notes/Cluster setup and Hardening/TLS certificate.md",
+    "kubernetes/CKS notes/Cluster setup and Hardening/service account with rbac.md",
+    "kubernetes/CKS notes/Cluster setup and Hardening/Verifying Platform Binary.md",
+    "kubernetes/CKS notes/Cluster setup and Hardening/RBAC Role,rolebinding,clusterrole and clusterrolebinding.md",
+    "kubernetes/CKS notes/Cluster setup and Hardening/Kubernetes dashboard.md",
+    "kubernetes/CKS notes/Cluster setup and Hardening/Node Metadata.md",
+    "kubernetes/CKS notes/Cluster setup and Hardening/Network Policy.md",
+    "kubernetes/CKS notes/Cluster setup and Hardening/Kubelet Security.md",
+    "kubernetes/CKS notes/Cluster setup and Hardening/kubeconfig.md",
+    "kubernetes/CKS notes/Cluster setup and Hardening/CIS Benchmark.md",
+    "kubernetes/CKS notes/Cluster setup and Hardening/Authentication.md",
+    "kubernetes/CKS notes/Cluster setup and Hardening/Auditing.md",
+    "kubernetes/CKS notes/Cluster setup and Hardening/API token access and kube proxy.md",
     "kubernetes/kcna/Basics",
     "kubernetes/kcna",
-    "kubernetes/Untitled.md",
-    "ML-OPS/Openweb-UI.md",
-    "ML-OPS/Understanding vLLM.md",
-    "Python/Day 6.md",
-    "work/learing note taking/Forticlient Open VPN.md",
-    "work/learing note taking/Global Protect vpn connection.md",
-    "work/learing note taking/Global Protect vpn connection 1.md",
-    "Python/Day 5.md",
-    "Python/Day 4.md",
-    "Python/Day 3.md",
-    "Python/Day 2.md",
-    "Python/Day 1.md",
-    "AWS/VPC peering.md",
-    "AWS/VPC (virtual private cloud).md",
-    "AWS/NAT instance and NAT gateway.md",
-    "AWS/IAM (identity and access management).md",
-    "AWS/EC2 (Elastic Cloud compute).md",
-    "kubernetes/kubeadm init phase.md",
-    "kubernetes/Adding Metrics.md",
-    "work/minio cluster deployment.md",
-    "work/Gitlab Migration.md",
-    "work/DevOps as a Service.md",
-    "work/Devops As A service test criteria.md",
-    "kubernetes/CKS notes/Cluster setup and Hardening/ABAC Policy.md",
-    "docker/docker image from scratch.md",
     "Pasted image 20251008182346.png",
     "Pasted image 20251008182325.png",
     "Pasted image 20251008182123.png",
     "Pasted image 20251008182107.png",
     "Pasted image 20251008182047.png",
     "Untitled 1.base",
-    "Untitled.base",
     "IAAS",
     "kubernetes/Basics",
     "kubernetes",

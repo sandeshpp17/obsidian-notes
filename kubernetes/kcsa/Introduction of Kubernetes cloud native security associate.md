@@ -1,7 +1,7 @@
 
 this is the security measures that needs to be taken while handling the Kubernetes environment.
 
-### thinks to keep in check.
+###  Kubernetes cluster components.
 1. no insecure port needs to be open on host level 
 2. set up firewall for blocking the access of insecure port.
 3. use namespaces for resource isolation.

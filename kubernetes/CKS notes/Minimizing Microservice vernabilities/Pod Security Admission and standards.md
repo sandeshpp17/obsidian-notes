@@ -1,4 +1,4 @@
-In term of securing pod we implement the pod security policy. but due to deprecation of pod security. The pod security admission and pod security standards are came in picture.
+In term of securing pod we implement the [[pod security policy]]. but due to deprecation of pod security. The pod security admission and pod security standards are came in picture.
 
 using the pod security admission and standards we can enforce the pod in security standards. To enable the pod security both admission and standards are used by labeling the name space with different combination.
 
