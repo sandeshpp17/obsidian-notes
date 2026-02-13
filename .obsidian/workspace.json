@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FluxCD/Introduction.md",
+                "file": "kubernetes/Adding Metrics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Adding Metrics"
             }
           }
         ]
@@ -181,18 +181,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d10b27f3cf3a5f3f",
+  "active": "df54521096b2c46c",
   "lastOpenFiles": [
+    "kubernetes/kcsa/securing the secrets with encryption.md",
+    "kubernetes/kcsa/securing storage.md",
+    "kubernetes/kcsa/secure cluster with tls certs.md",
+    "kubernetes/kcsa/pod security policy.md",
+    "kubernetes/kcsa/Introduction of Kubernetes cloud native security associate.md",
+    "kubernetes/kcsa/Basic authentication in kubernetes.md",
+    "kubernetes/Adding Metrics.md",
+    "kubernetes/kubeadm init phase.md",
+    "kubernetes/Cross namespace networking of pod.md",
+    "kubernetes/Cluster Migration.md",
+    "todo/Tracker.md",
+    "todo/self improvement.md",
+    "todo/Duplocloud.md",
+    "ultra-learning/ultra-learning.md",
+    "ultra-learning/Ultralearning.md",
+    "FluxCD/Introduction.md",
     "FluxCD/Installation and configuration.md",
     "HAWK-I/main issue..md",
     "HAWK-I/alpha.md",
     "IAAS/Apache cloud stack.md",
-    "kubernetes/kcsa/Basic authentication in kubernetes.md",
-    "kubernetes/kcsa/secure cluster with tls certs.md",
-    "kubernetes/kcsa/securing the secrets with encryption.md",
-    "kubernetes/kcsa/securing storage.md",
-    "kubernetes/kcsa/pod security policy.md",
-    "kubernetes/kcsa/Introduction of Kubernetes cloud native security associate.md",
     "Untitled.base",
     "work/learing note taking/Learning Obsidian.md",
     "kubernetes/CKS notes/Minimizing Microservice vernabilities/Pod Security Admission and standards.md",
@@ -200,16 +210,6 @@
     "kubernetes/CKS notes/Cluster setup and Hardening/TLS certificate.md",
     "kubernetes/CKS notes/Cluster setup and Hardening/service account with rbac.md",
     "kubernetes/CKS notes/Cluster setup and Hardening/Verifying Platform Binary.md",
-    "kubernetes/CKS notes/Cluster setup and Hardening/RBAC Role,rolebinding,clusterrole and clusterrolebinding.md",
-    "kubernetes/CKS notes/Cluster setup and Hardening/Kubernetes dashboard.md",
-    "kubernetes/CKS notes/Cluster setup and Hardening/Node Metadata.md",
-    "kubernetes/CKS notes/Cluster setup and Hardening/Network Policy.md",
-    "kubernetes/CKS notes/Cluster setup and Hardening/Kubelet Security.md",
-    "kubernetes/CKS notes/Cluster setup and Hardening/kubeconfig.md",
-    "kubernetes/CKS notes/Cluster setup and Hardening/CIS Benchmark.md",
-    "kubernetes/CKS notes/Cluster setup and Hardening/Authentication.md",
-    "kubernetes/CKS notes/Cluster setup and Hardening/Auditing.md",
-    "kubernetes/CKS notes/Cluster setup and Hardening/API token access and kube proxy.md",
     "kubernetes/kcna/Basics",
     "kubernetes/kcna",
     "Pasted image 20251008182346.png",
